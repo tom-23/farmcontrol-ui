@@ -1,0 +1,50 @@
+{
+  "name": "farmcontrol-ui",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@simplewebauthn/browser": "^10.0.0",
+    "@tsparticles/react": "^3.0.0",
+    "@tsparticles/slim": "^3.5.0",
+    "antd": "^5.19.2",
+    "axios": "*",
+    "gcode-preview": "^2.17.0",
+    "moment": "*",
+    "react": "*",
+    "react-dom": "*",
+    "react-router-dom": "*",
+    "react-scripts": "*",
+    "socket.io-client": "*",
+    "styled-components": "*",
+    "three": "^0.166.1",
+    "tsparticles": "^3.5.0",
+    "web-vitals": "*"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}

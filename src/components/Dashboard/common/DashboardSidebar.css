@@ -1,0 +1,5 @@
+.ant-layout-sider {
+    width: 250px; /* Adjust the width as per your preference */
+    min-width: 250px; /* Ensure a minimum width to avoid collapsing */
+    max-width: 400px; /* Optionally set a maximum width */
+  }
